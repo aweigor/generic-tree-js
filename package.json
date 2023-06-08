@@ -1,0 +1,19 @@
+{
+  "name": "generic-tree",
+  "version": "1.0.0",
+  "description": "JavaScript class handling generic tree data structure. ",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweigor/generic-tree-js.git"
+  },
+  "author": "I.Novitski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweigor/generic-tree-js/issues"
+  },
+  "homepage": "https://github.com/aweigor/generic-tree-js#readme"
+}
